@@ -36,13 +36,13 @@ export const PROJECTS: Project[] = [
     category: 'Collection',
     title: 'Owuor Collection: Formalwear',
     description: 'Precise tailoring in wool and silk. Strictly limited to suits, ties, polo shirts, and caps.',
-    imageUrl: 'images/collection.jpeg'
+    imageUrl: '/images/collection.jpeg'
   },
   {
     id: 'strategy-1',
     category: 'Strategy',
     title: 'Strategic Deal-Making',
     description: 'Facilitating complex partnerships and negotiations through rigorous analysis and clear value-alignment.',
-    imageUrl: 'images/sign.jpeg'
+    imageUrl: '/images/sign.jpeg'
   }
 ];
